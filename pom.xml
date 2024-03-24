@@ -52,6 +52,7 @@
 				<version>2.4</version>
 				<configuration>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
+					<contextPath>/myapp</contextPath>
 				</configuration>
 			</plugin>
 		</plugins>
